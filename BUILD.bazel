@@ -1,0 +1,4 @@
+alias(
+    name = "three",
+    actual = "@three//:three",
+)

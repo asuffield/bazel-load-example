@@ -1,0 +1,5 @@
+cc_binary(
+    name = "three",
+    srcs = ["three.cc"],
+    visibility = ["//visibility:public"],
+)
